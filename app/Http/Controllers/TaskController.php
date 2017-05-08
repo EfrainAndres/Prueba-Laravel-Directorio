@@ -51,7 +51,7 @@ class TaskController extends Controller
           'email' => $request['email']
 
       ]);
-        return redirect('\directorio')->with('success','Tarea Creada Correctamente');
+        return redirect('\directorio')->with('success','Directorio Creado Correctamente');
     }
 
     /**
