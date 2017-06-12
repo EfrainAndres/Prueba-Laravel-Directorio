@@ -11,7 +11,7 @@
 
         {!!Form::submit('Modificar Tarea',['class' => 'btn btn-primary'])!!}
     {!!Form::close()!!}
-
+ <h1>Hola Perros</h1>
 
   </div>
 
